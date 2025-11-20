@@ -36,7 +36,9 @@ npm run build
 ## 数据源
 
 应用程序从本地服务器获取GeoTIFF数据：
-- http://127.0.0.1:8003/o_rivdph2001_20011229.tif
-- http://127.0.0.1:8003/o_rivdph2001_20011230.tif
+- public/data
+  - o_rivdph2001_20011229.tif
+  - o_rivdph2001_20011230.tif
+
 
 请确保在运行应用程序前，相应的数据服务已启动。
